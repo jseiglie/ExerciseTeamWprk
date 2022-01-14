@@ -35,3 +35,36 @@ body {
 
     
 
+.img-recipe {
+    width: 90%;
+}
+
+.cardText {
+    margin-top: 0.5em;
+    font-size: 9pt;
+}
+.cardST {
+    padding: 0;
+    height: 100%;
+}
+
+.card {
+    border: 1px solid goldenrod;
+    
+}
+
+.cardHead {
+    padding: 1em;
+    margin: 0;
+}
+
+.colTime, .colLevel {
+    border-bottom: 1px solid black;
+    border-radius: 0.5em;
+    text-align: center;
+    padding: 0;
+}
+
+.myBtn {
+    width: 40%;
+}
