@@ -1,5 +1,36 @@
-This is a super social net of delicious food from Olga & Javier.
-We are here to share the best recipes easy to cook , healthy and delicious.
+------------------------------------------------------------------
 
-As well you are able to add and create your own recipes here, share your recipes with other users , save recipes which you liked in your profile and just have fun.
-If you are fun of healthy food, you must join our community!
+This is a social Landing Page of delicious recipes from Javier LS & Heylga. 
+
+The content as follows:
+
+- Recipes
+- Community Concept and information about us
+- Application Form where you share your recipes
+ 
+-------------------------------------------------------------------
+
+Web structure contains:
+
+Header
+
+Body:
+
+-Container
+-5 rows
+-9 columns
+
+Bootstraps: navbar, carousel slides, modal validation, offcanvas, alerts
+
+Footer 
+
+-------------------------------------------------------------------------------
+
+The project is created and shared in gitpod.
+
++++ Link +++ 
+
+https://github.com/jseiglie/ExerciseTeamWprk
+
+
+--------------------------------------------------------------------------------
